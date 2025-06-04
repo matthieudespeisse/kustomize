@@ -1,0 +1,7 @@
+resources:
+  - "../base"
+
+images:
+  - name: spring-petclinic:3.4.0-SNAPSHOT
+    newName: spring-petclinic:3.4.1-SNAPSHOT
+    newTag: test
